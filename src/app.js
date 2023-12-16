@@ -1,4 +1,3 @@
-/* eslint-disable */
 import "bootstrap";
 import "./style.css";
 
@@ -20,7 +19,7 @@ function generarCarta() {
     "10",
     "J",
     "Q",
-    "K"
+    "K",
   ];
 
   const carta = document.getElementById("carta");
